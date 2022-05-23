@@ -25,9 +25,9 @@ const parsedUserInfo = {
     mid_country_code: 'US',
     currency: 'USD',
     amount: 1,
-    merchantName: 'Flowers Shop', // @todo get from merchant
-    merchantId: 'BCR2DN4TWDNNPWQX', // @todo get from merchant
-    merchant_display_name: 'Flowers Shop'
+    merchantName: 'Omenlap', // @todo get from merchant
+    merchantId: 'BCR2DN4TWCTNH5SE', // @todo get from merchant
+    merchant_display_name: 'Omenlap'
 }
 
 const baseRequest = {
